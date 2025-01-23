@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Completing my Bachelor’s in Business Analytics at NUS.<br><br>👯 I’m looking to collaborate on:<br>Data science, machine learning, and analytics projects.<br><br>🤝 I’m looking for help with:<br>Expanding opportunities in data science and AI.<br><br>🌱 I’m currently learning:<br>Advanced ML techniques and model optimization.<br><br>⚡ Fun fact:<br>I built an LLM-powered SQL assistant to simplify querying in my previous internship!
+🔭 I’m currently working on:<br>Completing my Bachelor’s in Business Analytics at NUS.<br><br>👯 I’m looking to collaborate on:<br>Data science, machine learning, and analytics projects.<br><br>🤝 I’m looking for help with:<br>Expanding opportunities in data science and AI.<br><br>🌱 I’m currently learning:<br>Applying my academic knowledge to real-world data science and machine learning projects.<br><br>⚡ Fun fact:<br>I built an LLM-powered SQL assistant to simplify querying in my previous internship!
 
 
 ## 🌐 Socials:
